@@ -64,3 +64,4 @@ C:\Users\cchamorro\Desktop\c#\projectef\obj\Debug\net8.0\refint\projectef.dll
 C:\Users\cchamorro\Desktop\c#\projectef\obj\Debug\net8.0\projectef.pdb
 C:\Users\cchamorro\Desktop\c#\projectef\obj\Debug\net8.0\projectef.genruntimeconfig.cache
 C:\Users\cchamorro\Desktop\c#\projectef\obj\Debug\net8.0\ref\projectef.dll
+C:\Users\cchamorro\Desktop\c#\projectef\obj\Debug\net8.0\projectef.sourcelink.json
