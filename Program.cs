@@ -62,10 +62,11 @@ app.MapDelete("/api/tareas/{id}", async ([FromServices] TareasContext dbContext,
     {
         dbContext.Remove(tareaActual);
         await dbContext.SaveChangesAsync();
+
         return Results.Ok();
     }
-    return Results.NotFound($"No se encuentra el id {id}");
 
-}
+    return Results.NotFound();
+});
 
 app.Run();
